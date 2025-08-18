@@ -19,3 +19,10 @@ Welcome to the Case Study of **Customer Churn Excel Dashboard Project** from Dat
 - Microsoft Excel (Pivot Tables and charts)
 
 ## Insights
+Insights we uncovered in our Telecom subscription:
+- 👴 Customers aged between 79-88 only make up a small percentage of our customer base but have the highest churn rate.
+- 🧍 Customers between the 3 and 4 year mark are much more likely to churn on a One Year contract compared a Two Year. Sales and marketing can use this information to provide offers that would get customers to sign up to 2 year deals.
+- 🗺️ CA state has customers on a international plan that has a particularly high percentage of churners.
+
+## Explore your own
+- Open the raw data and munch! ⚡
